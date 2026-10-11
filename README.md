@@ -1,2 +1,9 @@
-# My-first-project-ICT_01-135262-005
-My first GitHub repository
+# My First Project
+
+## About
+This is my first GitHub repository created in ICT Lab.
+
+## Student Info
+- Name: Abeeha Ihsan
+- Program: BSIT
+- Date: 11 October, 2026
